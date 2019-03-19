@@ -1,0 +1,7 @@
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\bin\Debug\latihan class.exe.config
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\bin\Debug\latihan class.exe
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\bin\Debug\latihan class.pdb
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\obj\Debug\latihan class.csprojAssemblyReference.cache
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\obj\Debug\latihan class.csproj.CoreCompileInputs.cache
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\obj\Debug\latihan class.exe
+D:\18.11.2342\latihan 1\pertemuan3\latihan class\latihan class\obj\Debug\latihan class.pdb
